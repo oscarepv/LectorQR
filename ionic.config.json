@@ -1,6 +1,6 @@
 {
   "name": "lectorQR2",
-  "app_id": "",
+  "app_id": "12636a78",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
